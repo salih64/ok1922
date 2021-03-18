@@ -1,7 +1,3 @@
 # Version: 1.4.20
 # TeaSpeak version: 1.4.20
 # Build version: 0
-sad
-as
-s
-sa
